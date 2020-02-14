@@ -4,7 +4,7 @@ title: Public Experience Portfolio (USAGov)
 
 ## Our Mission
 
-Our mission is to create and organize timely, needed government information and services and make them accessible anytime, anywhere, via the public's channel of choice.
+USAGov’s mission is to make it easier for everyone to find and understand the government services and information they need—anytime, anywhere, any way they want.
 
 ## Our Channels
 
